@@ -1345,9 +1345,3 @@ input[type="text"] {
   max-width: 100%; /* Adjust as needed */
   height: auto;
 }
-
-.nightowl-dark img,
-.nightowl-dark video,
-.nightowl-dark iframe {
-    filter: invert(0%) !important;
-}
